@@ -1,0 +1,41 @@
+
+
+*,
+*::before
+*::after {
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.section-1 {
+    width: 1100px;
+    position: relative;
+}
+
+.kolom{
+    margin: 50px;
+    margin-bottom: 50px;
+}
+
+#home{
+    margin-bottom: 10px;
+}
+
+#home img{
+    margin-top: 0px;
+
+}
+
+#tulisan {
+    margin-right: 60%;
+
+}
+
+.container {
+    margin-top: 100px;
+}
